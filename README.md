@@ -19,14 +19,23 @@ I hope this application serves as a useful example or a starting point for your 
 
 /flight_reservation_app
 ├── main.py                 # Main application entry point
+
 ├── database.py             # SQLite database connection, setup, and CRUD operations
+
 ├── home.py                 # UI for the Home Page
+
 ├── booking.py              # UI for the Flight Booking Page
+
 ├── reservations.py         # UI for displaying all reservations
+
 ├── edit_reservation.py     # UI for editing an existing reservation
+
 ├── flights.db              # SQLite database file (created automatically)
+
 ├── requirements.txt        # Information about dependencies
+
 ├── README.md               # This file
+
 └── .gitignore              # Specifies intentionally untracked files that Git should ignore
 
 

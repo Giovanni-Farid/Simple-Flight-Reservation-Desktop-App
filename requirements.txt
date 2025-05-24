@@ -1,0 +1,4 @@
+This application uses Python's built-in libraries (Tkinter, SQLite3).
+No external packages are required to run the application script directly.
+For building the executable, PyInstaller is used.
+You can install it via: pip install pyinstaller

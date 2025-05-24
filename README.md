@@ -1,6 +1,6 @@
 # Simple Flight Reservation Desktop App
 
-Welcome to the Simple Flight Reservation Desktop App By Giovanni! This project is a basic flight reservation system developed as a desktop application using Python's Tkinter library for the Graphical User Interface (GUI) and SQLite for database management. Users can book, view, update, and delete flight reservations.
+Simple Flight Reservation Desktop App By Giovanni! This project is a basic flight reservation system developed as a desktop application using Python's Tkinter library for the Graphical User Interface (GUI) and SQLite for database management. Users can book, view, update, and delete flight reservations.
 
 I hope this application serves as a useful example or a starting point for your own projects!
 

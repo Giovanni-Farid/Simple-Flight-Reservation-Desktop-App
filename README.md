@@ -17,7 +17,7 @@ I hope this application serves as a useful example or a starting point for your 
 ## File Structure
 
 
-/flight_reservation_app
+/Simple-Flight-Reservation-Desktop-App-main
 
 ├── main.py                 # Main application entry point
 

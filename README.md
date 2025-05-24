@@ -18,6 +18,7 @@ I hope this application serves as a useful example or a starting point for your 
 
 
 /flight_reservation_app
+
 ├── main.py                 # Main application entry point
 
 ├── database.py             # SQLite database connection, setup, and CRUD operations
